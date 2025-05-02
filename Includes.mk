@@ -1,4 +1,4 @@
 SRCS=\
-	main.c
+	 test2.c #main.c
 INCLUDES=\
 	Game2048.h
